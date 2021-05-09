@@ -28,7 +28,7 @@
     "core-js": "^2.4.1",
     "firebase": "^6.2.1",
     "firebase-queue": "^1.5.0",
-    "lodash": "^4.15.0",
+    "lodash": "^4.17.21",
     "rxjs": "6.5.2",
     "rxjs-compat": "^6.0.0-rc.0",
     "tslib": "^1.9.0",
